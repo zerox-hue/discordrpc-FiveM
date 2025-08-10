@@ -1,4 +1,4 @@
-\# DiscordRPC FiveM
+# DiscordRPC FiveM
 
 - You can change the client's discordrpc customable for your server fivem.
 
@@ -17,4 +17,5 @@
 # Installation
 
 - Download the .rar and create a file in your folder resources of your server and extract it here and run your server or refresh yours scripts and good play ! 
+
 
